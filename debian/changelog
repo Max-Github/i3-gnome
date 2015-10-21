@@ -1,4 +1,8 @@
-i3-gnome (1.0.0-1) precise; urgency=low
+i3-gnome (1.1.0-1) precise; urgency=low
+
+  * Updated to work with Ubuntu 15.10
+
+-- Max Badran <max@badran.net.nz>
 
   * Initial Release.
 
