@@ -20,10 +20,11 @@ Based on https://aur.archlinux.org/packages/i3-gnome/
     debuild -i -us -uc -b
     ```
 
-* Use the following command to install: 
+4. Use the following command to install: 
     ```bash
-    sudo dpkg -i ./../i3-gnome_1.1.0-1_all.deb   
+    sudo dpkg -i ./../i3-gnome_1.1.0-1_all.deb
     ```
+    
     This assumes that you are still in the repo folder.
 
 
